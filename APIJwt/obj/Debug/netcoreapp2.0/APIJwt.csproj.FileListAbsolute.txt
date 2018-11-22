@@ -1,0 +1,11 @@
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\bin\Debug\netcoreapp2.0\APIJwt.deps.json
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\bin\Debug\netcoreapp2.0\APIJwt.runtimeconfig.json
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\bin\Debug\netcoreapp2.0\APIJwt.runtimeconfig.dev.json
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\bin\Debug\netcoreapp2.0\APIJwt.dll
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\obj\Debug\netcoreapp2.0\APIJwt.csprojAssemblyReference.cache
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\obj\Debug\netcoreapp2.0\APIJwt.csproj.CoreCompileInputs.cache
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\obj\Debug\netcoreapp2.0\APIJwt.AssemblyInfoInputs.cache
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\obj\Debug\netcoreapp2.0\APIJwt.AssemblyInfo.cs
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\bin\Debug\netcoreapp2.0\APIJwt.pdb
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\obj\Debug\netcoreapp2.0\APIJwt.dll
+C:\Users\Vaitea\Documents\Dev\APIJwt\APIJwt\obj\Debug\netcoreapp2.0\APIJwt.pdb
